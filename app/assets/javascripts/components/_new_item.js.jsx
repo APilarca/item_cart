@@ -7,7 +7,7 @@ var NewItem = React.createClass({
 			type: 'POST',
 			data: { item: { name: name, description: description } },
 			success: (item) => {
-				this.props.handleSubmit(item);
+				this.props.handleSubmit(item);ww
 			}
 		});
 	},
