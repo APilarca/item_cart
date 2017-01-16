@@ -1,7 +1,7 @@
 var AllItems = React.createClass({
 	handleEdit() {
 
-	}
+	},
 
 	handleDelete(id) {
     this.props.handleDelete(id);
