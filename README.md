@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A practice project using Ruby on Rails as an API with React.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The link to the original tutorial can be found [here](https://github.com/pluralsight/guides/blob/master/published/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails/article.md)
